@@ -1,8 +1,8 @@
 # TeachMeSkills_Homework_Lesson_9
-Реализовать свою собственную коллекцию(можно сказать, свой собственный ArrayList).
-В этой коллекции должны быть 
-метод добавления элемента  
-метод получения элемента по индексу
-метод удаления элемента по индексу 
-метод, возвращающий размер коллекции
-Коллекция должны сама масштабироваться
+Implement your own collection (you can say, your own ArrayList).
+This collection should have
+a method for adding an element
+a method for getting an element by index
+a method for removing an element by index
+a method that returns the size of the collection
+The collection should scale itself
